@@ -1,1 +1,1 @@
-This repository is now managed by Gowthami..
+This repository is now managed by Ananth.
