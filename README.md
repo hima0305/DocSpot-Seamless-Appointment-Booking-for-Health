@@ -1,1 +1,1 @@
-# DocSpot-Seamless-Appointment-Booking-for-Health
+This repository is now managed by Gowthamireddy147.
